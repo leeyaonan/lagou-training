@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lagou-transfer-ioc-xml-anno" />
+        <module name="demo-ioc-aop" />
+        <module name="lagou-transfer-transaction" />
+        <module name="lagou-transfer-ioc-anno" />
+        <module name="demo-others" />
+        <module name="lagou-transfer-iocxml" />
+        <module name="lagou-transfer" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

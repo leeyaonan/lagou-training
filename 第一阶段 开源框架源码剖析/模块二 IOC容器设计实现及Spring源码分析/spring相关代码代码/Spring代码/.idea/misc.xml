@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../代码/lagou-transfer" />
+    <file type="web" url="file://$PROJECT_DIR$/../代码/lagou-transfer-ioc-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/../代码/lagou-transfer-ioc-xml-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/../代码/lagou-transfer-iocxml" />
+    <file type="web" url="file://$PROJECT_DIR$/../代码/lagou-transfer-transaction" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../代码/demo-others/pom.xml" />
+        <option value="$PROJECT_DIR$/../代码/demo-ioc-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/../代码/lagou-transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/../代码/lagou-transfer-iocxml/pom.xml" />
+        <option value="$PROJECT_DIR$/../代码/lagou-transfer-ioc-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../代码/lagou-transfer-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/../代码/lagou-transfer-ioc-xml-anno/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
